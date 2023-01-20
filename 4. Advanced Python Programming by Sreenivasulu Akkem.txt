@@ -1,0 +1,92 @@
+			Advanced Python Programming
+I) Introduction (Advanced Python Programming)
+---------------
+Advanced Python Programming Introduction
+https://youtu.be/8Wv6SMgWLPg
+
+II) Python Modules, Packages & Libraries (Advanced Python Programming)
+---------------------------------------------------------
+Python Modules, Packages, Libraries Introduction
+https://youtu.be/MSfFEGfQpNk
+
+What are Python Modules
+https://youtu.be/T9dO44RT-TM
+
+Types of Python Modules
+https://youtu.be/0HsAsXVFqPA
+
+Advantages of Python Modules
+https://youtu.be/BVOgN7Zwwso
+
+How to Import Python Modules
+https://youtu.be/duA0xUBjuDY
+
+Import All Members of a Python Module
+https://youtu.be/JrHmitQXGQM
+
+Import Specific Members of a Python Module
+https://youtu.be/Qy_YqMO-F9o
+
+How to give Alias names to Python Module Members
+https://youtu.be/TMqazof5puk
+
+What are Python Packages
+https://youtu.be/19Xx5TSPknc
+
+Naming Conventions of Python Package
+https://youtu.be/Z1nmCvXsOPA
+
+Types of Packages in Python
+https://youtu.be/5FqvlCoe9YI
+
+Advantages of Python Packages
+https://youtu.be/IuCGVGXh1o0
+
+Creating Python Packages
+https://youtu.be/RvjbBFAg27I
+
+Accessing Python Packages & Modules of Packages
+https://youtu.be/VF5Kt6AIiz8
+
+Accessing Python One Package Modules into Another Package Modules
+https://youtu.be/OMnhAybz-bc
+
+Python Libraries
+https://youtu.be/0HhAK2Sla5U
+
+Python math module
+https://youtu.be/v_-p9PQy0Z4
+
+Python random module part 1
+https://youtu.be/AE_LxPeG1jE
+
+Python random module part 2
+https://youtu.be/57PFdMVHNQg
+
+Python random module part 3
+https://youtu.be/YZSI41AswVw
+
+Python random module part 4
+https://youtu.be/l4c-e6hrkn8
+
+Python os module part 1
+https://youtu.be/DPHkihjSn_Y
+
+Python os module part 2
+https://youtu.be/y5gFTAhzWGA
+
+Python os module part 3
+https://youtu.be/k77vIChAXdw
+
+Python os module part 4
+https://youtu.be/peRIAjrY9mU
+
+Python os module part 5
+https://youtu.be/ZYcU-CU6C9k
+
+Python os module part 6
+https://youtu.be/3uBpdWTHWPw
+
+Python os module part 7
+https://youtu.be/DE6YfGgnYMk
+

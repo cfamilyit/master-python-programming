@@ -1,0 +1,205 @@
+Core Python Programming by Sreenivasulu Akkem
+=============================================
+I) Language Fundamentals
+-------------------------
+Python Language Fundamentals Introduction
+https://youtu.be/uGB0Jbe_aUc
+
+Python Programming Indentation Rules
+https://youtu.be/vhQTo3lU080
+
+Python Programming Indentation Rules Part 2
+https://youtu.be/aJlKlx0543s
+
+Python Comments
+https://youtu.be/xiIP1jbS5dE
+
+Python Identifiers
+https://youtu.be/w4Oewqwvje0
+
+Python Keywords or Reserved Words
+https://youtu.be/2lxO9MrQDRk
+
+What are Python Datatypes
+https://youtu.be/R5xosbxFpA8
+
+Types of Datatypes in Python
+https://youtu.be/iFM9gEagPNQ
+
+Simple Datatypes in Python Introduction
+https://youtu.be/o6wOEvN8xfo
+
+Simple Datatypes in Python - Int datatype Part 1
+https://youtu.be/L4KwvZnvC6g
+
+Simple Datatypes in Python - Int datatype Part 2
+https://youtu.be/uFBdlElqxJ4
+
+Simple Datatypes in Python - Int datatype Part 3
+https://youtu.be/hL7RlCrl4Bc
+
+Simple Datatypes in Python - Float datatype
+https://youtu.be/CGy4tSgOOkU
+
+Simple Datatypes in Python - Complex datatype
+https://youtu.be/JyFvRJKia2I
+
+Simple Datatypes in Python - bool datatype
+https://youtu.be/n93zI9uw9jY
+
+Python Simple Datatypes - String datatype
+https://youtu.be/VU31rTlRoP4
+
+Python Collection Datatypes - Introduction
+https://youtu.be/CeSStV-qvkc
+
+Python Collection Datatypes - tuple, list, set and dictionary
+https://youtu.be/cWh0TMbyp0s
+
+Python Bytes Datatype
+https://youtu.be/_0MKdVjPHlw
+
+Python Byte array Datatype
+https://youtu.be/frPkHKxEThw
+
+Python Range Datatype
+https://youtu.be/hW2Wk2Fsj4k
+
+Python None Datatype
+https://youtu.be/OjmxKL3XxjI
+
+Python Type Casting
+https://youtu.be/gjw_bwSEr3c
+
+Python Literals
+https://youtu.be/VeMmoDtLpiU
+
+Python Escape Characters
+https://youtu.be/qprmPRgr8WA
+
+Python Constants
+https://youtu.be/LB635_cXnYk
+
+Python Naming Conventions
+https://youtu.be/Fn2xkKd0TQI
+
+II) Python Operators (Core Python Programming)
+----------------------------------------------
+Python Operators Introduction
+https://youtu.be/RbcB6Hp3Uxg
+
+Python Operators - Arithmetic Operators
+https://youtu.be/O5PxYLzZhYg
+
+Python Operators - Arithmetic Operators Part 2
+https://youtu.be/Q6M6dpImjmw
+
+Python Operators - Relational Operators
+https://youtu.be/hltPiapmsFc
+
+Python Operators - Equality Operators
+https://youtu.be/kJQ5pVrLKzU
+
+Python Operators - Logical Operators
+https://youtu.be/B-2PVC7lGoY
+
+Python Operators - Logical AND Operator
+https://youtu.be/B_q5_MpVjug
+
+Python Operators - Logical OR Operator
+https://youtu.be/LUO6f1LUe_Y
+
+Python Operators - Logical NOT Operator
+https://youtu.be/6h6o1APTiVs
+
+Python Operators - Bitwise Operators
+https://youtu.be/q_1VgpT4vJM
+
+Python Operators - Bitwise Operators Part 2
+https://youtu.be/dESvUPdXy6g
+
+Python Operators - Assignment Operators
+https://youtu.be/aFYvRiibDEw
+
+Python Operators - Ternary Operators
+https://youtu.be/zhInKOKfmO4
+
+Python Operators - Special Operators
+https://youtu.be/npG2DYKfOgg
+
+III) Python Input & Output Statements
+=====================================
+Python Program to Reading Dynamic data from Keyboard
+https://youtu.be/X0Dxdfe5r7s
+
+Python eval function
+https://youtu.be/S2fQCPRM7S0
+
+Python Command line arguments
+https://youtu.be/HI-Yy9kckMc
+
+Python Output statements
+https://youtu.be/r9f-0JFouk8
+
+IV) Python Flow Control Statements
+Python Flow Control Statements Introduction
+https://youtu.be/UUzBCoBZbvw
+
+Python Types of Flow Control Statements
+https://youtu.be/RF0NG4oHbmw
+
+Python Conditional Flow Control Statements Part 1
+https://youtu.be/Iam9x-ZCJfg
+
+Python Conditional Flow Control Statements Part 2
+https://youtu.be/qL3_rF2safM
+
+Python Conditional Flow Control Statements Part 3
+https://youtu.be/S7CTi_oeZeM
+
+Python Conditional Flow Control Statements Part 4
+https://youtu.be/W0_hy-zsoJM
+
+Python Conditional Flow Control Statements Part 5
+https://youtu.be/8EKTLsQOx8o
+
+Python Conditional Flow Control Statements Part 6
+https://youtu.be/G1MLFCXzQik
+
+Python Conditional Flow Control Statements Part 7
+https://youtu.be/FMu9NfJIAEs
+
+Python Conditional Flow Control Statements Part 8
+https://youtu.be/Fh4sQ5woW6I
+
+Python Iterative Statements Part 1
+https://youtu.be/NdT6P9fHb6M
+
+Python Iterative Statements Part 2
+https://youtu.be/JPaPeM77TAE
+
+Python Iterative Statements Part 3
+https://youtu.be/ImLatGHUxP0
+
+Python Iterative Statements Part 4 
+https://youtu.be/LhnuAjTxLPs
+
+Python Iterative Statements Part 5
+https://youtu.be/UqAws_Wye_g
+
+Python Iterative Statements Part 6
+https://youtu.be/vvsfD_7hnn8
+
+Python Iterative Statements Part 7
+https://youtu.be/FdPdVR3FFDk
+
+Python Transfer Statements Part 1
+https://youtu.be/HK83jQXIE7Y
+
+Python Transfer Statements Part 2
+https://youtu.be/rJM-PNZNKf0
+
+Loops with Else Block in Python
+https://youtu.be/MCDhTgmpkdQ
+
+
