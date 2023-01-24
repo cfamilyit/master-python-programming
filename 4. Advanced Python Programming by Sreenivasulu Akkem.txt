@@ -90,3 +90,227 @@ https://youtu.be/3uBpdWTHWPw
 Python os module part 7
 https://youtu.be/DE6YfGgnYMk
 
+III) Python Functions (Advanced Python Programming)
+--------------------------------------------------
+What are Functions in Python
+https://youtu.be/BC9NsXtQP8s
+
+Types of Functions in Python
+https://youtu.be/nWGsrL8cBGI
+
+Python Functions Syntax
+https://youtu.be/FJWJ4FC3x1w
+
+Python Functions First Example part 1
+https://youtu.be/iEM4UPbKRCI
+
+Python Functions First Example part 2
+https://youtu.be/nTUtdHrYnuQ
+
+Types of Arguments in Python Functions
+https://youtu.be/WR2cSstbE9E
+
+Types of Arguments in Python Functions part 2
+https://youtu.be/A8p-Ev_Eqkg
+
+Types of Arguments in Python Functions part 3
+https://youtu.be/A7azlnF0E4o
+
+Python Functions Examples part 1
+https://youtu.be/v7_-_sbIsGc
+
+Python Local Variables and Global Variables 
+https://youtu.be/YjSrgMcAGTU
+
+Python Local Variables & Global Variables part 2
+https://youtu.be/B2Mlq9FjE9s
+
+Python Recursive Functions
+https://youtu.be/d7UtVkcc4PM
+
+What are Lambda Functions in Python
+https://youtu.be/AQLLNmSn_h8
+
+Python Lambda Functions Examples part 1
+https://youtu.be/kTV7cEcuISs
+
+Python Lambda Functions Examples part 2 
+https://youtu.be/YeKo25ZdTzQ
+
+Python Lambda Functions Examples part 3
+https://youtu.be/TZhzg2Q-VJs
+
+Python Function Aliasing
+https://youtu.be/aakwhi4-A74
+
+Python Inner Functions part 1
+https://youtu.be/28eWsBdMS9M
+
+Python Inner Functions part 2 
+https://youtu.be/tpFchdKJQ4M
+
+IV) Python Object Oriented Programming(Advanced Python Programming)
+------------------------------------------------------
+Python Object Oriented Programming Introduction
+https://youtu.be/yi-xdaOgiA0 
+
+What is class in Python?
+https://youtu.be/m7FSVy9zng4
+
+How to declare/create a class in Python
+https://youtu.be/M5QZ8KJYs0o
+
+What is an object in Python?
+https://youtu.be/UyIUd0xRHSw
+
+What is Constructor in Python? 
+https://youtu.be/VYQkiqwj84o
+
+What is self keyword in Python ?
+https://youtu.be/JUBat5y_fmM
+
+Initializing object in Python
+https://youtu.be/FxdN0Z0BtNA
+
+Types of variables in Python class?
+https://youtu.be/_EqBbhMqXsM
+
+Python Instance variables part 1
+https://youtu.be/h5Di1ueNcCA
+
+Python Instance variables part 2
+https://youtu.be/NgzDzyz_tgc
+
+Python Instance variables part 3
+https://youtu.be/fjNrAVuyQ7w
+
+Python Instance variables part 4
+https://youtu.be/PZHUh9d3M28
+
+Python Instance variables part 5
+https://youtu.be/Ibg3m2agwrY
+
+Python static variables part 1 
+https://youtu.be/_fko3FBHL_I
+
+Python static variables part 2
+https://youtu.be/6H17Lvf2now
+
+Python static variables part 3
+https://youtu.be/1pTGhiD_A9A
+
+Python static variables part 4
+https://youtu.be/7XN6JojsSgU
+
+Python static variables part 5
+https://youtu.be/a-dNBea1C6s
+
+Python local variables in Class part 1
+https://youtu.be/JE9wyeaDBh4
+
+Python Types of Functions in class part 1 
+https://youtu.be/b54mopThYmY
+
+Python Types of Functions in class part 2
+https://youtu.be/s8mjV9RgxII
+
+Python Types of Functions in class part 3
+https://youtu.be/KqrOJdyo4oc
+
+Python Types of Functions in class part 4
+https://youtu.be/0e8Ss7LOHdI
+
+Python Inner classes
+https://youtu.be/XqI5kQmNFTw
+
+Python Garbage Collection part 1
+https://youtu.be/-LKMhYUboQQ
+
+Python Garbage Collection part 2
+https://youtu.be/jLWBtuYkX0Q
+
+Python Destructor
+https://youtu.be/WB24vctI0aE
+
+Python Inheritance
+https://youtu.be/6p8CxCwXwT4
+
+Python Polymorphism
+https://youtu.be/7tLcwt16QkU
+
+Python Abstract Classes and Interfaces
+https://youtu.be/ih7fPLNvfV8
+
+V) Python File Handling (Advanced Python Programming)
+-----------------------------------------------------
+Python Files Introduction
+https://youtu.be/EBgwy-ra05s
+
+Types of Files in Python
+https://youtu.be/yNKJaZ0rERc
+
+Python File Modes part 1
+https://youtu.be/kBWfNfoyCYM
+
+Python File Modes part 2
+https://youtu.be/Ett1V_bu19A
+
+Properties of Python File object 
+https://youtu.be/T0h-5k05wDw
+
+Python Program to Writing data to text files part 1 
+https://youtu.be/GtcYAeDIP68
+
+Python Program to Writing data to text files part 2
+https://youtu.be/7ah7aIJPxbI
+
+Python Program to Writing data to text files part 3
+https://youtu.be/RcUf0DHpiyA
+
+Python Program to Reading data from text files part 1
+https://youtu.be/nDDxNZ1DPUY
+
+Python Program to Reading data from text files part 2
+https://youtu.be/5VBOP7Nz-6I
+
+Python Program to Reading data from text files part 3
+https://youtu.be/uu7ioHQN0h8
+
+Python Program to Reading data from text files part 4
+https://youtu.be/wepjqa2hqlY
+
+Python Program to Reading data from text files part 5
+https://youtu.be/sY0lxNv9Xkg
+
+Python Program to Reading data from text files part 6 
+https://youtu.be/ng9bncXeOeo
+
+Python Program to Reading data from text files part 7 
+https://youtu.be/aWmgab7eBOg
+
+Python Program to check weather file exists or not
+https://youtu.be/wtSnqJG2yDA
+
+Python Program to Find  number of lines, words and no of characters in file
+https://youtu.be/tzGBzo7Fvoc
+
+Python Program to Handling Binary Data
+https://youtu.be/LgrfBeug9hg
+
+Python Program to Handling CSV Files part 1
+https://youtu.be/CPbGd0JNIHA
+
+Python Program to Handling CSV Files part 2
+https://youtu.be/Py4wsBAmc6M
+
+Python Program to Zipping and Unzipping files part 1
+https://youtu.be/kB3U0TzTTio
+
+Python Program to Zipping and Unzipping files part 2
+https://youtu.be/wesaMXOBuKc
+
+Python Program to Zipping and Unzipping files part 3
+https://youtu.be/qufPptAv5GY
+
+VI) Python XML Parsing (Advanced Python Programming)
+----------------------------------------------------
