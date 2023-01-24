@@ -1,0 +1,26 @@
+Python Oracle Database Programming by Sreenivasulu Akkem
+========================================================
+Steps for Python Programming with Oracle
+https://youtu.be/3RJ8mYnD55Y
+
+Steps for Python Programming with Oracle part 2
+https://youtu.be/679LrNqd19c
+
+Working with Python Oracle Database part 1
+https://youtu.be/xKWo1Sdzm2E
+
+Working with Python Oracle Database part 2
+https://youtu.be/MJQhJfmC-Z8
+
+Working with Python Oracle Database part 3
+https://youtu.be/qq3h56rtqgA
+
+Working with Python Oracle Database part 4
+https://youtu.be/IW_9UTke0Nk
+
+Working with Python Oracle Database part 5
+https://youtu.be/5iAhr0OwwYs
+
+Working with Python Oracle Database part 6
+https://youtu.be/aNqb1J9cIqI
+
