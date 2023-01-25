@@ -9,6 +9,10 @@ https://youtu.be/ejxQNgF2Js0
 Write a Python Script to find biggest of given three numbers
 https://youtu.be/5F5pFXuH8BA
 
+Write a Python Script to find smallest of given three numbers
+https://youtu.be/bccnjSvVjko
+
+
 write a python script to find whether the given numbers is even number or odd number?
 https://youtu.be/tPJejxQCbDs
 
