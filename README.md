@@ -10,7 +10,7 @@ Find Below Python Courses Links in GitHub Repository
 6. Python MySQL Database Programming by Sreenivasulu Akkem
 7. Python Oracle Database Programming by Sreenivasulu Akkem
 8. Python FAQs and Answers by Sreenivasulu Akkem
-9. Python Programming Examples or Use cases by Sreenivasulu Akkem
+9. Python Programming Examples by Sreenivasulu Akkem
 
 Subscribe www.youtube.com/@cfamilyit YouTube Channel and Like, Share Comment Videos.
 
