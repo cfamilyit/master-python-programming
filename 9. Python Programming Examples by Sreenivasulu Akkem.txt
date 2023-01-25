@@ -1,0 +1,23 @@
+Python Programming Examples or Use cases by Sreenivasulu Akkem
+========================================================
+write a python script to find biggest of given two numbers
+https://youtu.be/0CPS7vtObzs
+
+write a python script to find smallest of given two numbers
+https://youtu.be/ejxQNgF2Js0
+
+Write a Python Script to find biggest of given three numbers
+https://youtu.be/5F5pFXuH8BA
+
+write a python script to find whether the given numbers is even number or odd number?
+https://youtu.be/tPJejxQCbDs
+
+write a python script to take single digit number and print its english word ? 
+https://youtu.be/z5kd3NwlsKc
+
+write a python script to find max value and min value from list ? 
+https://youtu.be/vZDFYaU_3SQ
+
+write a python script for regular expression to find 10 digit valid mobile numbers?
+https://youtu.be/F6zP6SxX89Q
+
